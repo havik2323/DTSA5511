@@ -1,7 +1,5 @@
 # DTSA5511
 
-Certainly! Here is the complete README.md content in markdown format for easy copy and paste:
-
 ```markdown
 # Cancer Detection Project
 
@@ -11,7 +9,7 @@ This project aims to develop a machine learning algorithm to identify metastatic
 
 The project directory is structured as follows:
 
-```
+
 Cancer Detection/
 ├── kaggle_submission_output/
 │   └── [kaggle submission files]
@@ -27,7 +25,7 @@ Cancer Detection/
 │   └── [git files]
 ├── Cancer Detection.ipynb
 └── README.md
-```
+
 
 ### Directory and File Descriptions
 
